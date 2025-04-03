@@ -26,7 +26,7 @@
   <img height="200" src="https://api5.iloveimg.com/v1/download/7y69n3n3czf37hht96wj5v6zm1f704fy0jbhw9mAhjAp50dpmAjqxr10yhxgjkpdc7zfl28649srl1pgypn2qsvyrtk13gjjndfs23rs2526kmmxg8ztvAr3ttddf0nxhbfqzq40gh1b5hwx8gfp8c73q074jmy1fct4hy2tvfk2zfkfq91q"  />
 </div>
 
-<picture align="center center">
+<picture align="right">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
