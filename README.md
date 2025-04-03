@@ -1,6 +1,6 @@
 <br clear="both">
+
 <h1 align="left">Hello World, I'm Bianca  👋</h1>
-###
 <br clear="both">
 <p align="left">Tenho 16 anos e no momento, estou estudando HTML5 e CSS3. Depois, vou aprender JavaScript e Python. No futuro, quero trabalhar como desenvolvedora front-end ✨</p
 <br clear="both">
@@ -20,15 +20,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
 </div>
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BiiancaKap&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BiiancaKap&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
 <br clear="both">
 
 <div align="center">
@@ -38,7 +33,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/BiiancaKap/BiiancaKap/output/snake.svg" alt="Snake animation" />
-
-###
