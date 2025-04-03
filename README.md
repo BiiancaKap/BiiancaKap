@@ -1,7 +1,5 @@
 <br clear="both">
-
 <h1 align="left">Hello World, I'm Bianca  👋</h1>
-
 ###
 <br clear="both">
 <p align="left">Tenho 16 anos e no momento, estou estudando HTML5 e CSS3. Depois, vou aprender JavaScript e Python. No futuro, quero trabalhar como desenvolvedora front-end ✨</p
@@ -22,7 +20,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
 </div>
-
 ###
 
 <div align="center">
