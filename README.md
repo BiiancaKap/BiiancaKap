@@ -21,11 +21,6 @@
 </div>
 <br clear="both">
 
-###
-<div align="left">
-  <img height="200" src="https://api1.iloveimg.com/v1/download/4542kygqtmzny4Asd4bq01y1gng0wAg6r4tl60pmqbl5pbjjbm4x2pw07qk4g13dqphj0q923w53n177hqv5k27wzbj43z959x0Ahb8c262q61g5j2kA617mtnl3mzvhst5b1bmwl78c9z9j1714jcpxg4cm87y9ff4wtgs238v4j04gyfbq"  />
-</div>
-
 <picture align="right">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BiiancaKap/BiiancaKap/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BiiancaKap/BiiancaKap/output/github-contribution-grid-snake-dark.svg">
