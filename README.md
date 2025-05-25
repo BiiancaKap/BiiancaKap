@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hello World, I'm Bianc  👋</h1>
+<h1 align="center">Hello World, I'm Bianca 👋</h1>
 
 <p align="left">Tenho 16 anos e no momento, estou estudando HTML5 e CSS3. Depois, quero aprender JavaScript e Python. No futuro, quero trabalhar como desenvolvedora front-end ✨</p
 <br clear="both">
